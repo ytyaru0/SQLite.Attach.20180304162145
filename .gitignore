@@ -1,0 +1,19 @@
+# gitで管理しないファイル
+#.gitignore
+*.pyc
+*.sqlite3
+*.db
+*.BAK
+*.tar.bz2
+*.tar.gz
+*.zip
+*.7z
+#meta_*
+memo.md
+コピー ～ *
+コピー (*
+* (コピー).*
+* (別のコピー).*
+* (*番目のコピー).*
+_*
+
